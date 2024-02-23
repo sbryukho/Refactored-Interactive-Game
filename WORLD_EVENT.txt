@@ -1,0 +1,4 @@
+1) Click your mouse to get the lava affecting the world.
+2) Theoretically, the ghost that appears on the lava should move and pursue Dude to turn him into a zombie.
+3) The affected Dude is now "dead" as a zombie, changed appearance and moves very slow.
+4) The new entity is a ghost and follows the dude to change him into a zombie.
